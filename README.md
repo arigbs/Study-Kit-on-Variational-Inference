@@ -37,10 +37,12 @@ The `Example_Visualizations/` directory contains a rich collection of images and
 
 ## How to Use This Study Kit
 
-1.  **Start with the Basics**: Begin with the `QuickStart_Guide_For_Variational_Inference.html` to get a high-level overview.
-2.  **Go Through the Tutorials**: Work your way through the `Tensorflow_Tutorials_For_Variational_Inference.html`.
-3.  **Run the Code**: As you progress through the tutorials, run the corresponding Python scripts from the `ScriptsFromTutorials/` directory to see the concepts in action.
-4.  **Analyze the Visuals**: Refer to the images in `Example_Visualizations/` to get a better intuition for the results and concepts.
+1.  **Download the repository** and doubleclick any of the html files in the root directory. They would open in the browser and you can go through the content from there. 
+2.  **You can print to PDF** if you want a non html based copy.
+3.  **Start with the Basics**: Begin with the `QuickStart_Guide_For_Variational_Inference.html` to get a high-level overview.
+4.  **Go Through the Tutorials**: Work your way through the `Tensorflow_Tutorials_For_Variational_Inference.html` and its companion: **`Tutorial_08_Companion_Guide_A_Dialogic_Journey.html`**.
+5.  **Run the Code**: As you progress through the tutorials, write the code stage by stage or run the corresponding Python scripts from the `ScriptsFromTutorials/` directory to see the concepts in action.
+6.  **Analyze the Visuals**: Refer to the images in `Example_Visualizations/` as embedded in the html documents, to get a better intuition for the results and concepts.
 
 ## Prerequisites
 
